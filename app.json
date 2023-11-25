@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "todo",
+    "name": "Todo",
     "slug": "todo",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -21,10 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      },
+      "package": "com.ruben.todo"
     }
   }
 }
